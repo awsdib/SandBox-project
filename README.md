@@ -2,7 +2,7 @@
 SandBox Project Summer Term IFGI
 
 <p align="center">
-  <img src="https://www.google.de/search?biw=1745&bih=864&tbm=isch&sa=1&q=sandbox+table&oq=sandbox+table&gs_l=psy-ab.3..0i19k1l3j0i30i19k1.2089.4430.0.4525.13.13.0.0.0.0.94.825.13.13.0....0...1.1.64.psy-ab..0.13.823...0j0i30k1.LL3gzVBLsUY#imgrc=uSCwvLmzpCUVCM:" width="350"/>  
+  <img src="/Images/Imagen1 Report.PNG", width="350"/>  
 </p>
 
 This repository contains the last version of the fire model that was developed during the SandBox course (all the classes are located inside the src folder).
