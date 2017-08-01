@@ -13,6 +13,6 @@ Mónica Magán
 
 To use this version please replace the old source folder by the one that is stored in this repository.
 
-If you have further questions please do not hesitate in contact me.
+If you have further questions please do not hesitate to contact me.
 
 cristhianmurcia182@gmail.com
