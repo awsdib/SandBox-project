@@ -1,5 +1,5 @@
 # SandBox-project
-SandBox Project Winter Term IFGI
+SandBox Project Summer Term IFGI
 
 This repository contains the last version of the fire model that was developed during the SandBox course.
 Comments explaining the model components and the logic behind their methods can be found in all the major statements and functions of the code.
