@@ -7,11 +7,12 @@ Comments explaining the model components and the logic behind their methods can 
 A short R script that performs a scaling procedure so as to map SandBox measurements (time, speed, and distance traveled by the flame particles) to real measurements is also included.
 
 This project was developed by :
-
-Christian Murcia
-Diego Morales
-Aws Dib
-Mónica Magán
+<ul>
+  <li>Christian</li>
+  <li>Diego Morales</li>
+  <li>Aws Dib</li>
+  <li>Mónica Magán</li>
+</ul>
 
 To use this version please replace the old source folder by the one that is stored in this repository.
 
